@@ -1,0 +1,15 @@
+{
+  "name": "crypt",
+  "version": "1.0.0",
+  "description": "ExampleOfCryptr",
+  "main": "index.js",
+  "scripts": {
+    "go": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nia",
+  "license": "ISC",
+  "dependencies": {
+    "cryptr": "^6.2.0"
+  }
+}
