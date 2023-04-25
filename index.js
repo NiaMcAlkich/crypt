@@ -6,3 +6,4 @@ const decryptedString = cryptr.decrypt(encryptedString);
 
 console.log(encryptedString); 
 console.log(decryptedString); 
+//
