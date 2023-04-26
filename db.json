@@ -24,6 +24,36 @@
       "body": "Comment Posted From API",
       "postId": 6,
       "id": 4
+    },
+    {
+      "body": "Added from a post",
+      "postId": 66,
+      "id": 5
+    },
+    {
+      "body": "Added from a post",
+      "postId": 66,
+      "id": 6
+    },
+    {
+      "body": "Added from a post",
+      "postId": 66,
+      "id": 7
+    },
+    {
+      "body": "Added from a post",
+      "postId": 66,
+      "id": 8
+    },
+    {
+      "body": "Added from a post",
+      "postId": 66,
+      "id": 9
+    },
+    {
+      "body": "Added from a post",
+      "postId": 66,
+      "id": 10
     }
   ],
   "profile": {
